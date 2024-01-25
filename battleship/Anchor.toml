@@ -1,8 +1,12 @@
 [features]
 seeds = false
 skip-lint = false
+
 [programs.devnet]
-lootbox_hangman = "2whDY4jGVcLqzQYKYyfSL7sM1MU9GuxJ5kFpBen7Xnoo"
+battleship_contract = "7bp83FtVLDPGsk2vMftjHUeyNYE7LKGFJJFh2iLE36br"
+
+[programs.localnet]
+battleship_contract = "7bp83FtVLDPGsk2vMftjHUeyNYE7LKGFJJFh2iLE36br"
 
 [registry]
 url = "https://api.apr.dev"

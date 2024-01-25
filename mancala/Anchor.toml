@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.devnet]
-lootbox_hangman = "2whDY4jGVcLqzQYKYyfSL7sM1MU9GuxJ5kFpBen7Xnoo"
+mancala = "27kjU1HDLsU1kYudhryKg95ji2earYkWunWdyYQhbJjM"
 
 [registry]
 url = "https://api.apr.dev"
